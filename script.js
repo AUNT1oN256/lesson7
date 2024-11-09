@@ -2,4 +2,4 @@ function updateClock(){
     pass
 }
 
-document.getElementById('clock').textContent = '3572183'
+document.getElementById('clock').textContent = new Date()
