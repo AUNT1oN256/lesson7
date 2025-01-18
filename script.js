@@ -1,6 +1,6 @@
 const clockElement = document.getElementById('clock');
-const selectTimeZona = document.getElementById('timeZona')
-const local_timeZona = document.getElementById('local_timeZona')
+const selectTimeZona = document.getElementById('timeZona');
+const local_timeZona = document.getElementById('local_timeZona');
 
 
 function updateClock(){
